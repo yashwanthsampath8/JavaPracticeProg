@@ -4,6 +4,7 @@ public class ArmstrongNum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Armstrong number
 		int num = 371, orinum, rem, result = 0;
 		orinum = num;
 		while(orinum != 0) //checking numb is not zero
