@@ -6,7 +6,7 @@ public class GenPrime {
 		// TODO Auto-generated method stub
 		//Generating prime numbers till N
 		
-		int n = 10, count = 0;
+		int n = 10, count;
 		for(int i = 2 ; i <=n; i++) {
 			for(int j = 2; j<i;j++) {
 				count = 0;
